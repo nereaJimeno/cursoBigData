@@ -12,3 +12,15 @@
 <p>dataset_part_1.csv</p>
 <p>M06 - 03 - Bucles</p>
 <p>M06 - 04 - Programación funcional</p>
+
+
+<h3>DÍA 3 - MIÉRCOLES</h3>
+
+<p>M06 - 05 - SparkSession Teoría</p>
+<p>M06 - 06 - Primer RDD Teoría</p>
+<p>quijote.txt</p>
+<p>M06 - 07 - Transformaciones y Acciones sobre RDDs</p>
+<p>paises.csv</p>
+<p>deportista.csv</p>
+<p>deportista2.csv</p>
+<p>resultados.csv</p>
