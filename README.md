@@ -24,3 +24,8 @@
 <p>deportista.csv</p>
 <p>deportista2.csv</p>
 <p>resultados.csv</p>
+
+
+<h3>DÍA 4 - JUEVES</h3>
+
+<p>M06 - 08 - Funciones</p>
