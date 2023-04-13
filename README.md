@@ -29,3 +29,5 @@
 <h3>DÍA 4 - JUEVES</h3>
 
 <p>M06 - 08 - Funciones</p>
+<p>M06 - SpaceX2 - 6 - Machine Learning Predicciones</p>
+<p>dataset_part_2.csv</p>
