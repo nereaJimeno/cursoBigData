@@ -31,3 +31,4 @@
 <p>M06 - 08 - Funciones</p>
 <p>M06 - SpaceX2 - 6 - Machine Learning Predicciones</p>
 <p>dataset_part_2.csv</p>
+<p>Repaso Teoría - Curso Hackea tu futuro</p>
